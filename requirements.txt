@@ -1,5 +1,6 @@
 # Pin dependancies that might cause breakage
 Werkzeug==2.2.2
+Flask-Talisman==0.8.1
 
 # Build dependencies
 Flask==2.2.2
